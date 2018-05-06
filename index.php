@@ -1,5 +1,8 @@
-<? 
 
-echo "Hello Wolrd mutha fucka";
+<?
+
+echo "Eae galerinha";
+echo "Algo de errado está acontecendo";
 
 ?>
+
